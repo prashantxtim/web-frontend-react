@@ -6,6 +6,7 @@ import '../styles/login.css';
 import { toast } from 'react-toastify';
 import userSevices  from '../services/userSevices';
 
+// admin edit page
 
 
 function Editpage ({user}) {
