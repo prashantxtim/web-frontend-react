@@ -6,6 +6,8 @@ import '../styles/login.css';
 import { toast } from 'react-toastify';
 import gigServices from '../services/gigServices';
 
+// this is edit work
+
 function EditWork ({work}) {
     
     const [name, setName] = useState("");
