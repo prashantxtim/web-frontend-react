@@ -9,6 +9,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import userSevices from "../services/userSevices";
 
+// this is home 
+
 function Homeadmin({ user, setuser }) {
   const cartItems = useSelector((state) => state.cart.cartItems);
   const totalAmount = useSelector((state) => state.cart.totalAmount);
