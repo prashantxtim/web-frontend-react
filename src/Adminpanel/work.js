@@ -9,6 +9,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import gigServices from "../services/gigServices";
 
+// this is work js
 function Workadmin({ work, setwork }) {
   useEffect(() => {
     gigServices.getAll().then((res) => {
