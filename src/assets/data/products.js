@@ -12,6 +12,8 @@ import productImg08 from "../images/arm-chair-02.jpg";
 import productImg09 from "../images/arm-chair-03.jpg";
 import productImg10 from "../images/arm-chair-01.jpg";
 
+// this is product
+
 import productImg13 from "../images/phone-01.jpg";
 import productImg14 from "../images/phone-02.jpg";
 import productImg15 from "../images/phone-03.png";
