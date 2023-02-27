@@ -11,6 +11,7 @@ const serviceData = [
     subtitle: "Lorem ipsum dolor sit amet.",
     bg: "#ceebe9",
   },
+  
   {
     icon: "ri-secure-payment-line",
     title: "Secure Payment",

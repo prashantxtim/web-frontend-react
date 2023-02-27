@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import logo from '../../assets/images/4.png';
 
 function Footer() {
-
+// this is footer
   const year = new Date().getFullYear();
   return ( 
    <footer className='footer'>
