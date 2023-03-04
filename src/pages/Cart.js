@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 
 
 
-
+// this is cart
 function Cart() {
 
    const cartItems = useSelector(state => state.cart.cartItems);
