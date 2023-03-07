@@ -8,7 +8,9 @@ import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
 
 
-// this is checkout
+// this is checkoutgit 
+// THis is to remove readme files
+
 function Checkout() {
 
   const navigator= useNavigate()
